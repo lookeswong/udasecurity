@@ -1,0 +1,4 @@
+com\udacity\image\service\FakeImageService.class
+com\udacity\image\service\AwsImageService.class
+module-info.class
+com\udacity\image\service\StyleService.class
